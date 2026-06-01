@@ -12,6 +12,12 @@ This repository contains working, runnable implementations of every pattern disc
 
 ```
 prompt-caching/
+├── Diagrams
+|   ├── Readme.md
+|   ├── architechture.png
+|   ├── cost_breakdown.png
+|   ├── invalidation.png
+|   ├── pricing.png
 ├── examples/
 │   ├── 01_baseline_no_caching.py        # The expensive before pattern
 │   ├── 02_anthropic_caching.py          # Single cache breakpoint
