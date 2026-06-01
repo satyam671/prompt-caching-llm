@@ -22,10 +22,6 @@ prompt-caching/
 ├── utils/
 │   ├── cost_calculator.py               # Compute real savings from usage objects
 │   └── cache_monitor.py                 # Log and track cache hit rate over time
-├── notebooks/
-│   └── cost_comparison.ipynb            # Before/after cost analysis with charts
-├── diagrams/
-│   └── architecture.png                 # Prompt structure diagram from the article
 ├── requirements.txt
 └── README.md
 ```
